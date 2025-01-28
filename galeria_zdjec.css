@@ -1,0 +1,16 @@
+.galeria {
+	text-align: center;
+}
+
+.galeria table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.galeria td {
+	padding: 5px 5px 10px 5px;
+}
+
+.galeria td img {
+	border: 1px solid black;
+}
